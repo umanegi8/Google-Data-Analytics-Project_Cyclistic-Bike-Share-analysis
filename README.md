@@ -1,4 +1,4 @@
-# Google-Data-Analytics-Project_Cyclistic-Bike-Share-analysis
+# Google Data Analytics Project: Cyclistic Bike Share Analysis
 This is the Google Data Analytics Project. In this, I have worked on a fictional company, Cyclistic, which using Data want to increase their sales by converting casual member to annual users.
 
 
